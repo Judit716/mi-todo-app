@@ -6,8 +6,8 @@ Gestor de tareas desarrollado con Vue 3, Pinia y Supabase. Permite a usuarios re
 
 ## 🚀 Demo en vivo
 
-🔗 [Ver aplicación desplegada](https://tu-enlace.netlify.app)  
-🔗 [Repositorio en GitHub](https://github.com/tu-usuario/mi-todo-app)
+🔗 [Ver aplicación desplegada](https://mi-todo-list-app.netlify.app/auth)  
+🔗 [Repositorio en GitHub](https://github.com/Judit716/mi-todo-app)
 
 ---
 
@@ -58,7 +58,6 @@ src/
 
 ## 📦 Instalación local
 
-```bash
 # 1. Clona el repositorio
 git clone https://github.com/tu-usuario/mi-todo-app.git
 cd mi-todo-app
@@ -86,7 +85,3 @@ npm run dev
 
 ---
 
-
-## 📄 Licencia
-
-MIT
